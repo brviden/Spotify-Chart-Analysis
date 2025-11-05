@@ -1,9 +1,9 @@
 # Spotify-Chart-Analysis
 Data analysis of Spotify South Korea Top 50 chart using my beginner knowledge of Python (pandas + matplotlib).
 
-#This project analyzes which songs and artists appear most often on the Spotify Top 50 chart in South Korea, and whether newer or older songs tend to chart higher.
+This project analyzes which songs and artists appear most often on the Spotify Top 50 chart in South Korea, and whether newer or older songs tend to chart higher.
 
-#Tools Used:
+Tools Used:
 - Python
 - Pandas
 - Matplotlib
