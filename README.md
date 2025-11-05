@@ -9,7 +9,7 @@ Tools Used:
 - Matplotlib
 - Google Colab
 
-#Questions To Be Solved:
+Questions To Be Solved:
 - Which songs and artists appeared most frequently?
 - Whether singles or album tracks ranked higher on average.
 - Did newer songs rank higher on average than older songs?
