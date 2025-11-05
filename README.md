@@ -1,21 +1,23 @@
-# Spotify-Chart-Analysis
-Data analysis of Spotify South Korea Top 50 chart using my beginner knowledge of Python (pandas + matplotlib).
+# Spotify Chart Analysis (South Korea Top 50)
 
-This project analyzes which songs and artists appear most often on the Spotify Top 50 chart in South Korea, and whether newer or older songs tend to chart higher.
+This project analyzes Spotify's South Korea Top 50 chart to understand which artists and songs appear the most, whether singles or album tracks perform better, and whether newer songs tend to rank higher.
 
-Tools Used:
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Google Colab
 
-Questions To Be Solved:
-- Which songs and artists appeared most frequently?
-- Whether singles or album tracks ranked higher on average.
-- Did newer songs rank higher on average than older songs?
+## Questions Explored
+1. Which songs and artists appeared most frequently on the chart?
+2. Do singles or album tracks rank higher on average?
+3. Do newer songs tend to chart higher than older songs?
 
-Results:
-- Lim Young Woong and Jimin appeared most frequently.
-- Like Crazy and London Boy were the two most charted songs. 
-- Singles generally ranked higher than album tracks.
-- Newer songs tended to rank higher than older songs.
+## Key Results
+- **Lim Young Woong** and **Jimin** appeared the most frequently.
+- **"Like Crazy"** and **"London Boy"** were among the most frequently charting songs.
+- **Singles** generally ranked higher on average than album tracks.
+- **Newer songs** tended to chart higher than older songs.
+
+## Summary
+This project shows that the South Korean Spotify charts are strongly influenced by artists with loyal fanbases (especially top soloists) and that songs typically peak shortly after release. The analysis also highlights how release strategy (single vs. album track) affects chart performance.
