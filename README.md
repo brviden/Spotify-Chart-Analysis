@@ -20,4 +20,4 @@ This project analyzes Spotify's South Korea Top 50 chart to understand which art
 - **Newer songs** tended to chart higher than older songs.
 
 ## Summary
-This project shows that the South Korean Spotify charts are strongly influenced by artists with loyal fanbases (especially top soloists) and that songs typically peak shortly after release. The analysis also highlights how release strategy (single vs. album track) affects chart performance.
+This small, simple project shows that the South Korean Spotify charts are influenced by artists with loyal fanbases, leading songs to  typically peak shortly after release. The analysis also highlights how the release strategy (single vs. album track) affects chart performance.
