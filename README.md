@@ -1,6 +1,6 @@
 # Spotify Chart Analysis (South Korea Top 50)
 
-This project analyzes Spotify's South Korea Top 50 chart to understand which artists and songs appear the most, whether singles or album tracks perform better, and whether newer songs tend to rank higher.
+This project analyzes Spotify's South Korea Top 50 chart, which I obtained from Kaggle, to understand which artists and songs appear most often, whether singles or album tracks perform better, and whether newer songs tend to rank higher.
 
 ## Tools Used
 - Python
